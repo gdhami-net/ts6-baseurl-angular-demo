@@ -5,8 +5,8 @@ generated: `"baseUrl": "./"`, two path aliases written relative to it
 (`@app/*`, `@env/*`), and one bare import (`src/app/shared/format-name`) that
 only resolves because of `baseUrl`.
 
-Companion to the post "Fix the baseUrl error that TypeScript 6 raises in older
-Angular workspaces" on gdhami.net.
+Companion to the post
+[Fix the baseUrl error that TypeScript 6 raises in older Angular workspaces](https://gdhami.net/blog/fix-the-typescript-6-baseurl-error-in-older-angular-workspaces).
 
 ## What it proves
 
